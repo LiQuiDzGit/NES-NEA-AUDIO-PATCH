@@ -1,0 +1,52 @@
+################################################################
+#
+# Urban Champion (World)
+#
+# v1.0
+#
+# https://liquidzretrogaming.net/
+#
+# Mesen 2 NEA Audio PATCH by: LiQuiDz
+#
+# Agressive Action Fighting Gangsta Beat "no copyright music" by MokkaMusic / Bloodrush
+# https://www.youtube.com/watch?v=0rYQ1D5LPCQ
+# 
+# Database match: Urban Champion (World)
+# File SHA-1: D130CB806B16094EDD0EA93D3C418F5AC77EBA6E
+# File CRC32: E64B806E
+# File SHA-1: 26623B69661011AF701B5BEB23C37F9BF80D52F1
+# File CRC32: 770CDAA
+# ROM SHA-1: 9DF9BB3775E8CCA0214E3765CDC0443EF81636C4
+# ROM CRC32: 656D4265
+# 
+######################################################################
+<ver>106
+<patch>NEA-UrbanChampion0.bps,D130CB806B16094EDD0EA93D3C418F5AC77EBA6E
+<patch>NEA-UrbanChampion1.bps,26623B69661011AF701B5BEB23C37F9BF80D52F1
+<sfx>0,002,snd_00-02-swing.ogg
+<sfx>0,004,snd_00-04-walk.ogg
+<sfx>0,008,snd_00-10-block.ogg
+<sfx>0,010,snd_00-10-block.ogg
+<sfx>0,016,snd_00-16-punch.ogg
+<sfx>0,032,snd_00-32-block.ogg
+<sfx>0,064,snd_00-64-punch.ogg
+<sfx>0,080,snd_00-80-heli.ogg
+<sfx>0,128,snd_00-128-punch.ogg
+<sfx>0,160,snd_00-128-punch.ogg
+<sfx>0,192,snd_00-128-punch.ogg
+<sfx>1,001,snd_01-01-fall.ogg
+<sfx>1,004,snd_01-04-police.ogg
+<sfx>1,008,snd_01-08.ogg
+<sfx>1,016,snd_01-16-ground.ogg
+<sfx>1,032,snd_01-32-brokenvase.ogg
+<sfx>1,064,snd_01-64-vasehit.ogg
+<sfx>1,096,snd_01-64-vasehit.ogg
+<sfx>1,128,snd_01-128-vasefall.ogg
+<bgm>2,001,snd_02-01-pause.ogg
+<bgm>2,002,snd_02-02-intro.ogg
+<bgm>2,004,snd_02-04-intro.ogg
+<bgm>2,008,snd_02-08-round.ogg
+<bgm>2,016,snd_02-02-intro.ogg
+<bgm>2,032,snd_02-02-intro.ogg
+<bgm>2,064,snd_02-64-win.ogg
+<bgm>2,128,snd_02-128-mainbgm.ogg
