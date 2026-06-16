@@ -1,11 +1,8 @@
-################################################################
-#
 # Urban Champion (World)
 #
 # v1.0
 #
-# https://liquidzretrogaming.net/
-#
+
 # Mesen 2 NEA Audio PATCH by: LiQuiDz
 #
 # Agressive Action Fighting Gangsta Beat "no copyright music" by MokkaMusic / Bloodrush
@@ -18,5 +15,4 @@
 # File CRC32: 770CDAA
 # ROM SHA-1: 9DF9BB3775E8CCA0214E3765CDC0443EF81636C4
 # ROM CRC32: 656D4265
-# 
-######################################################################
+
