@@ -1,8 +1,6 @@
 Urban Champion (World)
 #
-v1.0
-#
-Mesen 2 NEA Audio PATCH by: LiQuiDz
+Mesen 2 NEA Audio PATCH by: LiQuiDz  (v 1.0
 #
 Agressive Action Fighting Gangsta Beat "no copyright music" by MokkaMusic / Bloodrush  
 https://www.youtube.com/watch?v=0rYQ1D5LPCQ
