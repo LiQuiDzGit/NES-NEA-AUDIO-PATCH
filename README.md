@@ -1,2 +1,2 @@
 # nes-nea-audio-patch
-NEA AUDIO PATCH
+NEA (Nintendo Enhenced Audio) PATCH
